@@ -130,12 +130,12 @@ Gemini도 비슷한 답변을 내놓는 모습을 확인했습니다.<br>
 일요일 아침에, 가볍게 제가 즐겨듣는 노래와 뮤직 비디오 링크를 공유하면서, 각자의 힐링템을 묻는 질문을 작성했습니다.<br>
 Gemini에게 우선 부탁했는데, "너무 들뜨지 않아도 괜찮아요." 라는 프롬프트 덕분인지 적당한 분위기의 말투의 결과가 나와서 만족했습니다.<br>
 <br>
-<img width="994" height="745" alt="스크린샷 2025-07-20 095346" src="https://github.com/user-attachments/assets/1e83a494-1986-46f1-a682-6403c67fcc19" />
+<img height="500" alt="스크린샷 2025-07-20 095346" src="https://github.com/user-attachments/assets/1e83a494-1986-46f1-a682-6403c67fcc19" />
 <br><br>
 이번에는 ChatGPT에게 같은 프롬프트로 요청했고, Gemini와 마찬가지로 만족할만한 답변을 제공했습니다.<br>
 일부 문구가 비슷하면서도 차이점이 보였기 때문에, 둘을 적절히 조합하면 좋겠다는 생각이 들었습니다.<br>
 <br>
-<img width="997" height="828" alt="스크린샷 2025-07-20 100239" src="https://github.com/user-attachments/assets/cf5143d0-e2f1-4d0a-bac1-be132daf61bb" />
+<img height="600" alt="스크린샷 2025-07-20 100239" src="https://github.com/user-attachments/assets/cf5143d0-e2f1-4d0a-bac1-be132daf61bb" />
 <br><br>
 그렇게 둘의 답변을 적절히 섞어서 질문글을 작성하여 올리면서 퀘스트 이틀 째의 날을 보냈습니다.<br>
 재치의 정도를 조절하여 보는 사람들로 하여금 부담을 덜 수 있어서 만족한 후기였습니다.<br>
