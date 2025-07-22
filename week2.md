@@ -15,6 +15,6 @@
 **답안**
 ![OX퀴즈 답안 (07/21)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcJMiyI%2FbtsPtCpeo3S%2FAAAAAAAAAAAAAAAAAAAAAAj8w4avABIlFQUrIQTD1Ne3gvTl-ebXfrKUX-gPZ_II%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3DSPx%252BsGvm%252BhYOew7ZV4cH5Gef%252FP8%253D)
 
-**간단 회고!**
+**간단 회고!** <br/>
 LLM이 제 코드를 기억해서 제 코드 위주로 퀴즈를 낸게 조금 아쉽네요..
 덕분에 틀린 문제는 없었지만 🤧 온전한 CS지식 만으로 문제를 구성하도록 해보겠습니다 !
