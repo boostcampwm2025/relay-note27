@@ -29,3 +29,23 @@ LLM이 제 코드를 기억해서 제 코드 위주로 퀴즈를 낸게 조금 �
   
   </div>
 </details>
+
+<details>
+  <summary><b>07.23 - Day8. 함수형 프로그래밍</b></summary>
+  <div markdown='1'>
+
+<br/>
+
+**문제**
+
+![OX퀴즈(07/23)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FudP9T%2FbtsPxkOkp7r%2FAAAAAAAAAAAAAAAAAAAAAI9qPGLFFfjJI8v3WCaJC725wZYwrb-ufrM4IBmh2lU7%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3DAbJtWBSGdMy7sSpZnizf6zcl6YQ%253D)
+
+<br/>
+
+**답안**
+
+![OX퀴즈 답안 (07/23)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fn4yCK%2FbtsPxDfVzL2%2FAAAAAAAAAAAAAAAAAAAAACluO9m_kwA5nt6Tdjhck8dqWvYs5kWjV3q0-i5ZJBkR%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3Da9JnII2PByCwALM7wzMUzo%252FYqCw%253D)
+
+  
+  </div>
+</details>
