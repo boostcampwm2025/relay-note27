@@ -117,6 +117,23 @@ LLM이 제 코드를 기억해서 제 코드 위주로 퀴즈를 낸게 조금 �
   </div>
 </details>
 
+<details>
+  <summary><b>07.24 - Day9. 레이스 컨디션</b></summary>
+  <div markdown='1'>
+
+<br/>
+
+**문제 및 답안**
+
+![OX퀴즈(07/24)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcMNBHT%2FbtsPzgSvrX9%2FAAAAAAAAAAAAAAAAAAAAAA44CSoQPGTnFZDD2cZuWFQkeqQE6JHiRFBibk-4OqYz%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3DiTcKt3CMG%252FPEtNf7fiixlpGeH0A%253D)
+  
+  </div>
+</details>
+
+**회고?** <br/>
+학습했던 내용을 다시 점검해보며 어떤 부분이 부족한지 알 수 있는 계기가 되어 꽤 효과적이었습니다.<br/>
+사실 매일 새로운 미션을 하면서 이전 학습 내용도 돌아보는게 챌린지에서 쉽지가 않은데, 퀴즈 CS 주제를 직접 선정하면서 이전 미션이 어떤 내용이었는지 상기시키고, 무엇보다 5분만에 끝나는 작업이라 좋았어요 🧌🧌
+
 ---
 ### 2. 아이스 브레이킹을 위해 AI를 활용해보세요.
 지피티를 활용해 아이스 브레이킹을 위한 대화 주제를 추천 받았습니다. "그중에서 당신이 슈퍼히어로가 된다면 특별능력은?" 질문을 변형하여 '얻고 싶은 능력이 있다면? 순간이동 vs 타임머신'으로 아이스 브레이킹을 시작했습니다.
