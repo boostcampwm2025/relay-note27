@@ -249,7 +249,7 @@ Gemini에게 우선 부탁했는데, "너무 들뜨지 않아도 괜찮아요." 
 </details>
 
 <details>
-<summmary> 총평 </summmary>
+<summary> 총평 </summary>
 ---
     
 1. 해당 퀘스트를 수행하는 데 AI는 어떤 역할이었나요? AI가 없으면 동일한 결과를 얻을 수 없을까요?
