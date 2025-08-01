@@ -163,7 +163,7 @@ GPT에서 아이스브레이킹을 위한 주제를 추천받아 월요일 아�
 
 - Chat GPT 와 대화를 나눈 내역을 미리캔버스 AI 이미지 생성 기능을 통해 이미지 생성.
 
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 <details>
 <summary> Day 11</summary>
