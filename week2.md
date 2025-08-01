@@ -207,7 +207,3 @@ GPT에서 아이스브레이킹을 위한 주제를 추천받아 월요일 아�
 - 생성형 AI가 이미지를 생성하는 방식에 직접 관여할 수 없는 한, 뭔가 새로운 시도를 하지는 못할 듯 하다.
 
 -
-
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e1fd9ccc-2ffb-498f-bff7-2e1e85abe1fc" />
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4dade6ce-80fd-481b-a6b6-d877e2005851" />
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b9ca8a74-6886-40a5-aaa2-5c56792e295c" />
